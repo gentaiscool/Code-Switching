@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 What is Code Switching?
 =======================
 
