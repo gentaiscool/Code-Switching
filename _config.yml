@@ -1,9 +1,5 @@
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - workshop.md
-  - OrgCommittee.md
-  - index.md
+title: Code Switching
+description: Code Switching Workshop
+url: "cod1r.github.io/Code-Switching"
+markdown: kramdown
+highlighter: rouge
