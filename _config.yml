@@ -3,3 +3,4 @@ description: Code Switching Workshop
 url: "cod1r.github.io/Code-Switching"
 markdown: kramdown
 highlighter: rouge
+theme: jekyll-theme-minimal
