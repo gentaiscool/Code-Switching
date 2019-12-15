@@ -1,6 +1,6 @@
 - name: Home
   link: /
 - name: Workshop Info
-  link: /workshop.html
+  link: /workshop.md
 - name: Organizing Committee
-  link: /OrgCommittee.html
+  link: /OrgCommittee.md
