@@ -1,0 +1,11 @@
+.current { color: red; }
+
+.nav { text-align: center; }
+
+a { text-decoration: none; margin-right: 10px; }
+
+body { font-family: 'Lato', sans-serif; }
+
+ul { text-align: left; margin-left: 10%; margin-right: 10%; }
+
+p { text-align: left; margin-left: 10%; margin-right: 10%; }

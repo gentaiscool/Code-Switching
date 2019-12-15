@@ -1,5 +1,5 @@
-name: Code Switching
+title: Code Switching
 description: Code Switching Workshop
 url: "cod1r.github.io/Code-Switching"
-markdown: GFM
+markdown: kramdown
 highlighter: rouge
