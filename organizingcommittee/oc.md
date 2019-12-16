@@ -16,7 +16,7 @@ title: Organizing Committee
 
 ## Monojit Choudhury
 
-![Monojit Choudhury Picture](/images/monochoud.jpg)
+![Monojit Choudhury Picture](/images/monochoud.png)
 - Principal Researcher
 - Microsoft Research Lab India
 - [monojitc@microsoft.com](monojitc@microsoft.com  "Email")
@@ -24,7 +24,7 @@ title: Organizing Committee
 
 ## Kalika Bali
 
-![Kalika Bali Picture](/images/kalb.jpg)
+![Kalika Bali Picture](/images/kalb.png)
 - Principal Researcher
 - Microsoft Research Lab India
 - [kalikab@microsoft.com](kalikab@microsoft.com  "Email")
@@ -48,7 +48,7 @@ title: Organizing Committee
 
 ## Mona Diab
 
-![Thamar Solorio Picture](/images/ts.png)
+![Thamar Solorio Picture](/images/md.png)
 - Principal Scientist
 - Amazon AWS AI
 - Professor of Computer Science, GWU, USA
