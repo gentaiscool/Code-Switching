@@ -11,5 +11,46 @@ title: Organizing Committee
 - Associate Professor
 - Department of Computer Science
 - University of Houston
-- [thamar.solorio@gmail.com](thamar.solorio@gmail.com "Her Email")
+- [thamar.solorio@gmail.com](thamar.solorio@gmail.com "Email")
+- Research interests: syntactic analysis of code-switched data, information extraction for social media data, analysis of style in text, detection of objectionable content online
 
+## Monojit Choudhury
+
+![Thamar Solorio Picture](/images/ts.png)
+- Principal Researcher
+- Microsoft Research Lab India
+- [monojitc@microsoft.com](monojitc@microsoft.com  "Email")
+- Research interests: computational processing of code-switched text, NLP for low resource languages, computational sociolinguistics and pragmatics.
+
+## Kalika Bali
+
+![Thamar Solorio Picture](/images/ts.png)
+- Principal Researcher
+- Microsoft Research Lab India
+- [kalikab@microsoft.com](kalikab@microsoft.com  "Email")
+- Research interests: computational processing of code-switched text and speech, NLP for low resource languages, computational sociolinguistics.
+
+## Sunayana Sitaram
+
+![Thamar Solorio Picture](/images/ts.png)
+- Senior Researcher
+- Microsoft Research Lab India
+- [sunayana.sitaram@microsoft.com](sunayana.sitaram@microsoft.com "Email")
+- Research interests: computational processing of code-switched spoken language, speech processing for low-resource languages, speech and language systems for multilingual communities
+
+## Amitava Das
+
+![Thamar Solorio Picture](/images/ts.png)
+- Lead Scientist
+- Wipro AI Lab India
+- [amitava.das2@wipro.com](amitava.das2@wipro.com "Email")
+- Research interests: Code-Mixing, Social Computing, Conversational System
+
+## Mona Diab
+
+![Thamar Solorio Picture](/images/ts.png)
+- Principal Scientist
+- Amazon AWS AI
+- Professor of Computer Science, GWU, USA
+- [diabmona@amazon.com](diabmona@amazon.com "Email")
+- Research Interests: Code Switching, Low Resource Scenarios, Conversational AI
