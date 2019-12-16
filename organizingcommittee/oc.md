@@ -7,7 +7,7 @@ title: Organizing Committee
 
 ## Thamar Solorio
 
-![Thamar Solorio Picture](/images/ts.png)
+![Thamar Solorio Picture](/images/solorio.png)
 - Associate Professor
 - Department of Computer Science
 - University of Houston
@@ -40,7 +40,7 @@ title: Organizing Committee
 
 ## Amitava Das
 
-![Thamar Solorio Picture](/images/ts.png)
+![Amitava Das Picture](/images/ad.PNG)
 - Lead Scientist
 - Wipro AI Lab India
 - [amitava.das2@wipro.com](amitava.das2@wipro.com "Email")
@@ -48,7 +48,7 @@ title: Organizing Committee
 
 ## Mona Diab
 
-![Thamar Solorio Picture](/images/md.png)
+![Mona Diab Picture](/images/md.png)
 - Principal Scientist
 - Amazon AWS AI
 - Professor of Computer Science, GWU, USA
