@@ -3,5 +3,5 @@ description: Code Switching Workshop
 theme: jekyll-theme-architect
 github:
   owner_name: Jason
-  wi_url: /workshopinformation/wi.html
-  oc_url: /organizingcommittee/oc.html
+  wi_url: workshopinformation/wi.html
+  oc_url: organizingcommittee/oc.html
