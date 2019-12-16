@@ -16,7 +16,7 @@ title: Organizing Committee
 
 ## Monojit Choudhury
 
-![Thamar Solorio Picture](/images/ts.png)
+![Monojit Choudhury Picture](/images/monochoud.jpg)
 - Principal Researcher
 - Microsoft Research Lab India
 - [monojitc@microsoft.com](monojitc@microsoft.com  "Email")
@@ -24,7 +24,7 @@ title: Organizing Committee
 
 ## Kalika Bali
 
-![Thamar Solorio Picture](/images/ts.png)
+![Kalika Bali Picture](/images/kalb.jpg)
 - Principal Researcher
 - Microsoft Research Lab India
 - [kalikab@microsoft.com](kalikab@microsoft.com  "Email")
@@ -32,7 +32,7 @@ title: Organizing Committee
 
 ## Sunayana Sitaram
 
-![Thamar Solorio Picture](/images/ts.png)
+![Sunayana Sitaram Picture](/images/SunSit.png)
 - Senior Researcher
 - Microsoft Research Lab India
 - [sunayana.sitaram@microsoft.com](sunayana.sitaram@microsoft.com "Email")
