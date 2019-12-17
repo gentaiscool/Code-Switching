@@ -7,7 +7,7 @@ title: Organizing Committee
 
 ## Thamar Solorio
 
-![Thamar Solorio Picture](/images/solorio1.PNG)
+![Thamar Solorio Picture](/images/sol.PNG)
 - Associate Professor
 - Department of Computer Science
 - University of Houston
