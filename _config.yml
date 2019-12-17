@@ -1,7 +1,20 @@
 title: Code Switching
 description: Code Switching Workshop
 theme: jekyll-theme-architect
+details: Collocated with LREC 2020
 github:
   owner_name: Jason
   wi_url: /workshopinformation/wi.html
   oc_url: /organizingcommittee/oc.html
+  pc_url: /programcommittee/pc.html
+dates:
+  - name: Workshop date
+    date: Saturday May 16th, 2020
+  - name: Paper submission
+    date: February 17th, 2020
+  - name: Notification of acceptance
+    date: March 9th, 2020
+  - name: Camera ready submission deadline
+    date: April 2nd, 2020
+Links: https://lrec2020.lrec-conf.org/en/
+Venue: Le Palais du Pharo

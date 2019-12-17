@@ -21,6 +21,7 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        <h2>{{ site.details }}</h2>
         {% if site.github.is_project_page %}
           <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
         {% endif %}
@@ -57,12 +58,27 @@
           <br>
           <a href="{{ site.github.oc_url | relative_url}}"><strong>Organizing Committee</strong></a>
           <br>
+          <a href="{{ site.github.pc_url | relative_url}}"><strong>Program Committee</strong></a>
           <br>
+          <br>
+          <strong>Main Event</strong>
+          <br>
+          <a href="{{ site.Links }}"><strong>{{ site.Links }}</strong></a>
+          <br>
+          <br>
+          <strong>Venue</strong>
+          <ul>
+            <li>{{ site.Venue }}</li>
+          </ul>
           <strong>Important Dates</strong>
           <ul>
-              <li>Paper submission: February 17th, 2020</li>
+                {%for date in site.dates %}
+                <!-- <li>Workshop date: Saturday May 16th, 2020</li>
+                <li>Paper submission: February 17th, 2020</li>
                 <li>Notification of acceptance: March 9th, 2020</li>
-                <li>Camera ready submission deadline: April 2nd, 2020</li>
+                <li>Camera ready submission deadline: April 2nd, 2020</li> -->
+                <li>{{ date.name }}: {{ date.date }}</li>
+                {% endfor %}
           </ul>
         </aside>
       </div>
