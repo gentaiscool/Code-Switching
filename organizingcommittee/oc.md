@@ -11,7 +11,7 @@ title: Organizing Committee
 - Associate Professor
 - Department of Computer Science
 - University of Houston
-- [thamar.solorio@gmail.com](thamar.solorio@gmail.com "Email")
+- [thamar.solorio@gmail.com](mailto:thamar.solorio@gmail.com "Email")
 - Research interests: syntactic analysis of code-switched data, information extraction for social media data, analysis of style in text, detection of objectionable content online
 
 ## Monojit Choudhury
@@ -19,7 +19,7 @@ title: Organizing Committee
 ![Monojit Choudhury Picture](/images/monochoud.png)
 - Principal Researcher
 - Microsoft Research Lab India
-- [monojitc@microsoft.com](monojitc@microsoft.com  "Email")
+- [monojitc@microsoft.com](mailto:monojitc@microsoft.com  "Email")
 - Research interests: computational processing of code-switched text, NLP for low resource languages, computational sociolinguistics and pragmatics.
 
 ## Kalika Bali
@@ -27,7 +27,7 @@ title: Organizing Committee
 ![Kalika Bali Picture](/images/kalb.png)
 - Principal Researcher
 - Microsoft Research Lab India
-- [kalikab@microsoft.com](kalikab@microsoft.com  "Email")
+- [kalikab@microsoft.com](mailto:kalikab@microsoft.com  "Email")
 - Research interests: computational processing of code-switched text and speech, NLP for low resource languages, computational sociolinguistics.
 
 ## Sunayana Sitaram
@@ -35,7 +35,7 @@ title: Organizing Committee
 ![Sunayana Sitaram Picture](/images/SunSit.png)
 - Senior Researcher
 - Microsoft Research Lab India
-- [sunayana.sitaram@microsoft.com](sunayana.sitaram@microsoft.com "Email")
+- [sunayana.sitaram@microsoft.com](mailto:sunayana.sitaram@microsoft.com "Email")
 - Research interests: computational processing of code-switched spoken language, speech processing for low-resource languages, speech and language systems for multilingual communities
 
 ## Amitava Das
@@ -43,7 +43,7 @@ title: Organizing Committee
 ![Amitava Das Picture](/images/ad.PNG)
 - Lead Scientist
 - Wipro AI Lab India
-- [amitava.das2@wipro.com](amitava.das2@wipro.com "Email")
+- [amitava.das2@wipro.com](mailto:amitava.das2@wipro.com "Email")
 - Research interests: Code-Mixing, Social Computing, Conversational System
 
 ## Mona Diab
@@ -52,5 +52,5 @@ title: Organizing Committee
 - Principal Scientist
 - Amazon AWS AI
 - Professor of Computer Science, GWU, USA
-- [diabmona@amazon.com](diabmona@amazon.com "Email")
+- [diabmona@amazon.com](mailto:diabmona@amazon.com "Email")
 - Research Interests: Code Switching, Low Resource Scenarios, Conversational AI
