@@ -24,7 +24,24 @@ This workshop aims to bring together researchers interested in solving the probl
 - Sociolinguistic aspects of code-switching
 - Sociopragmatic aspects of code-switching
 
-## Theme
+# Submission Guidelines
+
+- Authors are invited to submit papers describing original, unpublished work in the topic aresas listed above. Full papers should from four to eight pages with unlimited number of pages for references.
+- All submissions must be in PDF format and must comply with the official LREC 2020 style guidelines: [Submission Guidelines](https://lrec2020.lrec-conf.org/en/submission2020/submission-guidelines/)
+
+**The Review Process**
+
+The reviewing process will not be blind and papers can include the authors' names and affiliations. Each submission will be reviews by at least three members of the programm committee. Accepted papers will be published in the workshop proceedings.
+
+**Multiple Submission Policy**
+
+Papers that have been or will be submitted to other meetings or publications are acceptable, but authors must indicate this information at submission time. If accepted, authors must notify the organizers as to whether the paper will be presented at the workshop or elsewhere.
+
+**Electronic Submission**
+
+Papers should be submitted electronically at [Electronic Submission](https://www.softconf.com/lrec2020/CS2020/)
+
+# Theme
 
 This year we propose a theme for the workshop around resources and evaluation metrics and frameworks. The goal of the theme is to disseminate more broadly the data sets that are available for the research community, and to engage the community in a discussion about adopting best practices and common frameworks to enable a comprehensive evaluation of technology for code-switched data. We welcome submissions responsive to the theme, in addition to the topics listed above.
 
