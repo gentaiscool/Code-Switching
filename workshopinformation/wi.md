@@ -26,7 +26,7 @@ This workshop aims to bring together researchers interested in solving the probl
 
 # Submission Guidelines
 
-- Authors are invited to submit papers describing original, unpublished work in the topic aresas listed above. Full papers should from four to eight pages with unlimited number of pages for references.
+- Authors are invited to submit papers describing original, unpublished work in the topic areas listed above. Full papers should from four to eight pages with unlimited number of pages for references.
 - All submissions must be in PDF format and must comply with the official LREC 2020 style guidelines: [https://lrec2020.lrec-conf.org/en/submission2020/submission-guidelines/](https://lrec2020.lrec-conf.org/en/submission2020/submission-guidelines/)
 
 **The Review Process**
