@@ -27,7 +27,7 @@ This workshop aims to bring together researchers interested in solving the probl
 # Submission Guidelines
 
 - Authors are invited to submit papers describing original, unpublished work in the topic aresas listed above. Full papers should from four to eight pages with unlimited number of pages for references.
-- All submissions must be in PDF format and must comply with the official LREC 2020 style guidelines: [Submission Guidelines](https://lrec2020.lrec-conf.org/en/submission2020/submission-guidelines/)
+- All submissions must be in PDF format and must comply with the official LREC 2020 style guidelines: [https://lrec2020.lrec-conf.org/en/submission2020/submission-guidelines/](https://lrec2020.lrec-conf.org/en/submission2020/submission-guidelines/)
 
 **The Review Process**
 
@@ -39,7 +39,7 @@ Papers that have been or will be submitted to other meetings or publications are
 
 **Electronic Submission**
 
-Papers should be submitted electronically at [Electronic Submission](https://www.softconf.com/lrec2020/CS2020/)
+Papers should be submitted electronically at [https://www.softconf.com/lrec2020/CS2020/](https://www.softconf.com/lrec2020/CS2020/)
 
 # Theme
 
