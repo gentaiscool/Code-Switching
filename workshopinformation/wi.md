@@ -31,7 +31,7 @@ This workshop aims to bring together researchers interested in solving the probl
 
 **The Review Process**
 
-The reviewing process will not be blind and papers can include the authors' names and affiliations. Each submission will be reviews by at least three members of the programm committee. Accepted papers will be published in the workshop proceedings.
+The reviewing process will not be blind and papers can include the authors' names and affiliations. Each submission will be reviewed by at least three members of the program committee. Accepted papers will be published in the workshop proceedings.
 
 **Multiple Submission Policy**
 
