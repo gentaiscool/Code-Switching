@@ -11,4 +11,9 @@ title: Program Committee
 - Hila Gonen, Bar Ilan University
 - William H. Hsu, Kansas State University
 - Constantine Lingos, Brandeis University
+- Rupesh Mehta, Microsoft 
+- Joel Moniz, Carnegie Mellon University
+- Adithya Pratapa, Carnegie Mellon University
+- Yihong Theis, Kansas State University
 - Jacqueline Toribio, University of Texas at Austin
+- Gentra Inda Winata, Hong Kong University of Science and Technology
